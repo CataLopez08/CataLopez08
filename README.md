@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CataLopez08 
-- 👀 I’m interested create web sites and applications accesible for everybody & ensure that the application's user interface is responsive and adapts well to different screen sizes and devices in a creative way. 
+- 👀 I’m interested in creating web sites and applications accesible for everybody & ensure that the application's user interface is responsive and adapts well to different screen sizes and devices in a creative way. 
 - 🌱 I’m currently learning HTML; CSS & JavaScript
 - 💞️ I’m looking to collaborate on projects to increase my expertise and learn more.
 
